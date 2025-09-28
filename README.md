@@ -9,8 +9,12 @@ Final Report and Presentation
 PDFs and Datasheets
 Screenshots and Circuit Diagrams
 Word Reports & PPTs
+
+
 Tools and Platforms:
 
 MATLAB (Signal Processing & Analysis)
 Energia IDE (for TIVA LaunchPad)
+
+
 SAKTHIVEL Balakumar
