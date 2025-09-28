@@ -13,8 +13,9 @@ Word Reports & PPTs
 
 Tools and Platforms:
 
-MATLAB (Signal Processing & Analysis)
+
 Energia IDE (for TIVA LaunchPad)
+MATLAB (Signal Processing & Analysis)
 
 
 SAKTHIVEL Balakumar
