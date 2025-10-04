@@ -17,6 +17,6 @@ Tools and Platforms:
 Energia IDE (for TIVA LaunchPad)
 MATLAB (Signal Processing & Analysis)
 
-![Final Execution](Finalexecution.JPG)
+![Finalexecution](Finalexecution.JPG)
 
 SAKTHIVEL Balakumar
