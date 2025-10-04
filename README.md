@@ -28,7 +28,7 @@ MATLAB (Signal Processing & Analysis)
 
 ![Finalexecution](Finalexecution.jpg)
 
-## 📈 Methodology
+## Methodology
 1. Acquire signals from gas, temperature, and sound sensors.  
 2. Process sensor outputs using the ADC on Tiva LaunchPad.  
 3. Apply filtering and threshold-based decision logic in firmware.  
