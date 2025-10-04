@@ -19,4 +19,8 @@ MATLAB (Signal Processing & Analysis)
 
 ![Finalexecution](Finalexecution.jpg)
 
+## Demo Video
+[Click here to watch the demo](Outputvid.mp4)
+
+
 SAKTHIVEL Balakumar
